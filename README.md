@@ -25,7 +25,7 @@ Criar um espaço digital que:
 - Paleta inspirada em tons naturais e tons de viagem
 - Destaque para fotografia e storytelling
 
-visite a página  https://marceloguedesuxuxi.github.io/Blog_viagens/veja 
+visite a página  [https://marceloguedesuxuxi.github.io/Blog_viagens/veja ](https://marceloguedesuxuxi.github.io/Blog_viagens/)
 
 
 ## 📂 Estrutura do Projeto
